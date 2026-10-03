@@ -25,7 +25,7 @@
 &emsp;
 </a>
 
-𝖂𝖔𝖓'𝖙 𝖞𝖔𝖚 𝖇𝖊 𝖒𝖞 𝖕𝖗𝖔𝖒 𝖖𝖚𝖊𝖊𝖓 ?
+$\color{red}{\textsf{𝖂𝖔𝖓'𝖙&emsp;𝖞𝖔𝖚&emsp;𝖇𝖊&emsp;𝖒𝖞&emsp;𝖕𝖗𝖔𝖒&emsp;𝖖𝖚𝖊𝖊𝖓&emsp;?&emsp;!&emsp;}}$
 
 artist : @hazuki041126
 </div>
