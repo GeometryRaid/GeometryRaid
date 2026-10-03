@@ -21,8 +21,9 @@
 </a>
 
 𝖂𝖔𝖓'𝖙 𝖞𝖔𝖚 𝖇𝖊 𝖒𝖞 𝖕𝖗𝖔𝖒 𝖖𝖚𝖊𝖊𝖓 ?
-</a>
-artist : @hazuki041126</div>
+
+artist : @hazuki041126
+</div>
 
 <!--
 **GeometryRaid/GeometryRaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
