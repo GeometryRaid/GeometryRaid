@@ -28,7 +28,7 @@
 $\color{red}{\textsf{𝖂𝖔𝖓'𝖙&emsp;𝖞𝖔𝖚&emsp;𝖇𝖊&emsp;𝖒𝖞&emsp;𝖕𝖗𝖔𝖒&emsp;𝖖𝖚𝖊𝖊𝖓&emsp;?&emsp;}}$
 
 $\color{red}{\textsf{artist&emsp;:&emsp;@hazuki041126}}$
-a
+
 </div>
 
 <!--
