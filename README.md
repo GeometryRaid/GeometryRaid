@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align="center">
+
+<a href="https://x.com/hazuki041126/status/2002013585363566912">
+    <img src="https://pbs.twimg.com/media/G8iUvvyaMAAX8_Q?format=jpg&name=large"/>
+
+</a>
+
+ello
+
+</div>
 
 <!--
 **GeometryRaid/GeometryRaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
